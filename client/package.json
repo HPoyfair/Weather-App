@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-  "vite": "^5.2.0"
-},
-"devDependencies": {
-  "typescript": "^5.4.5"
-}
-
+    "vite": "^5.2.0",
+    "dayjs": "^1.11.10"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
 }
